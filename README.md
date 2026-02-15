@@ -1,6 +1,6 @@
 # Blog Aggregator
 
-A CLI application to aggregate RSS feeds from various blogs. Built with Go and PostgreSQL.
+A gator CLI application to aggregate RSS feeds from various blogs. Built with Go and PostgreSQL.
 
 ## Features
 
